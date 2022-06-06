@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJsLAGECSgzOLeNAnfjP2mukprTZgdsgjoxJP47gT6TUBEq+A6k8LjpYTk8N9R3OJ2otA/Ob3YjCTHZOdD94kQ==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\C#\\Classification\\Classification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rey\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rey\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
